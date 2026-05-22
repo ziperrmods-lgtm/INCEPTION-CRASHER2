@@ -1,0 +1,23 @@
+{
+   "name": "𝙸𝙽𝙲𝙴𝙿𝚃𝙸𝙾𝙽 𝙲𝚁𝙰𝚂𝙷𝙴𝚁",
+    "version": "1.0.0",
+    "main": "INCEPTION.js",
+    "scripts": {
+        "start": "node INCEPTION.js"
+    },
+    "dependencies": {
+        "@octokit/rest": "latest",
+        "@whiskeysockets/baileys": "github:raffipro234/bail",
+        "@google/generative-ai": "^0.24.1",
+        "axios": "^1.5.0",
+        "chalk": "^4.1.2",
+        "dotenv": "^16.3.1",
+        "acorn": "^8.16.0",
+        "moment": "^2.29.1",
+        "moment-timezone": "^0.5.43",
+        "pino": "^9.5.0",
+        "readline-sync": "^1.4.10",
+        "telegraf": "^4.16.3",
+        "form-data": "^4.0.0"
+    }
+}
